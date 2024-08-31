@@ -10,7 +10,7 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/agustin-nazaretto-a60214291/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a href="mailto:agustin_nazaretto@hotmail.com">Enviar correo a Agustín</a>
+	
 
 </div>	   			
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
